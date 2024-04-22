@@ -1,4 +1,4 @@
-### bye there 👋
+### 안녕하세요 최현희 입니다. 👋
 
 <!--
 **hyeonheeeee/hyeonheeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
