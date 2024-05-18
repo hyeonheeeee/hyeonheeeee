@@ -1,5 +1,7 @@
 ### 안녕하세요 개발자 최현희 입니다. 👋
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonhee's Github&fontSize=90" />
+
 ## Skills
 
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
