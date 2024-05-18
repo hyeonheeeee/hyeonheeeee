@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=b7d5ac&text=%20Hyeonhee's%20Github%20%20&height=200&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b7d5ac&text=%20Hyeonhee's%20Github%20%20&height=200&fontSize=70&fontColor=ffffff)
 
 <br>
 <br>  
