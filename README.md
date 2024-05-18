@@ -1,6 +1,8 @@
-### 안녕하세요 개발자 최현희 입니다. 👋
+[![header](https://capsule-render.vercel.app/api?type=waving&color=b7d5ac&text=%20Hyeonhee's%20Github%20%20&height=200&fontSize=90&fontColor=ffffff)]
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeonhee's Github&fontSize=90" />
+<br>
+<br>  
+<br>
 
 ## Skills
 
